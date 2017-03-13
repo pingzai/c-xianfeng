@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+/*toper*/
+.toper{ height:53px; padding-top:306px; background:#0b0b0b url(../img/toppero17.png) no-repeat center; min-width:960px;}
+nav a{ display:inline-block; font:16px/34px '冬青黑体简体中文'; color:#fff; padding:0 15px; background:#434343; border:1px solid #7f7f7f; margin-right:12pxpx;}
+.nav_1{ margin-left:65px;}
+
+/*header复用*/
+.header{ margin-top:28px; height:67px; line-height:67px;}
+.header .icon{ width:79px; height:67px; background:url(../img/con0171.png) no-repeat center;}
+.header span{ font: bolder 27px/67px 'Hiragino Sans GB'; color:#fff; margin-left:5px;}
+.header .icon2{ background-image:url(../img/con0172.png);}
+.header .icon3{ background-image:url(../img/con0173.png);}
+.header .icon4{ background-image:url(../img/con0174.png);}
+.con2 .header{ margin-top:26px;}
+.con4 .header{ margin-top:30px;}
+.con2 .header span,.con3 .header span{ color:#555;}
+{ color:#555;}
+
+
+
+/*con1*/
+.con1_box{ height:401px; background:#222224; min-width:960px; border-top:6px solid #5f3200; }
+.con1{ height:400px; background:url(../img/bg01701.png) no-repeat 42px center; padding-top:1px; }
+.con1_l ul{ width:401px;}
+.con1_l li{ margin-top:10px;}
+.con1_l h3{ font:16px/34px '冬青黑体简体中文'; color:#df7f17;}
+.con1_l p{ font:13px/22px '冬青黑体简体中文'; color:#fff; text-indent:2rem;}
+.con1_l .links{ text-align:right;}
+.con1_l .links a{ font:12px/22px '冬青黑体简体中文'; color:#828282;}
+.con1_r{ margin-left:64px; width:377px;}
+.con1_r .vedio_1{ margin-top:62px;}
+.con1_r .txt{font:16px/28px '冬青黑体简体中文'; color:#fff; margin-top:14px;}
+
+/*con2*/
+.con2_box{ height:498px; background:#e5e5e5; min-width:960px;}
+.con2{ height:497px; background:url(../img/bg01702.png) no-repeat 42px center; padding-top:1px; }
+.con2_in{ margin-top:17px;}
+.con2_l a{ display:block; height:45px; background:#df7f17; width:214px;}
+.con2_l a span{ font:16px/45px '方正兰亭细黑_GBK'; margin-left:29px; color:#fff;}
+.con2_l a b{ width:21px; height:21px; background:url(../img/jiantou01802.png) no-repeat center; margin-top:11px; margin-left:5px;}
+.con2_in ul{width:630px; margin-left:26px;}
+.con2_in li{ width:291px; height:110px; background:#fff; border:1px solid #b6b6b6;  margin:0 14px 14px 0;}
+.con2_in li p{font:14px/20px '方正兰亭细黑_GBK'; color:#040404; width:193px; margin:0 auto;  text-align:center;}
+.con2_in li .txt1{ margin-top:24px;}
+.con2_in .links{ display:block; margin-left:92px; font:13px/18px '微软雅黑'; color:#e07f1e; background: url(../img/icon01802.png) no-repeat left center; padding-left:25px;}
+.con2_in li .txt2{ margin-top:16px;}
+.con2_in li .txt3{ margin-top:15px;}
+.con2_in .txt_big{ width:200px;}
+.con2_in .links_li1{ margin-top:12px;}
+.con2_in .links_li2{ background-image:url(../img/icon01803.png);}
+.con2_in .links_li3{ margin-top:3px;}
+.con2_in .link_last{ margin-top:12px;}
+
+/*con3*/
+.tab .tab_box{ display:none;}
+.tab .show{ display:block;}
+.con3_box{ height:1107px; background:#fff; min-width:960px;}
+.con3{ height:1106px; background:url(../img/bg01703.png) no-repeat 42px center; padding-top:1px; }
+.con3 .btns{ margin:52px 0 0 35px;}
+.con3 .btns a{ font:18px '方正兰亭细黑_GBK'; color:#fff; background:#424242; padding:12px 30px;}
+.con3 .btns a:hover{background:#df7f17;}
+.con3 .btns .cur{background:#df7f17;}
+.con3 .txt_c3{ width:535px; margin-top:28px;}
+.con3 .txt_c3 h3{font:bolder 41px/52px 'Hiragino Sans GB'}
+.con3 .txt_c3 .p1{ text-align:right; font:bold 32px/45px 'Hiragino Sans GB';}
+.con3 .txt_c3 .p2{ text-indent:2em; font:13px/22px '方正兰亭细黑_GBK'; color:#707070;}
+.con3 .erweima{ width:253px; height:314px; background:#e5e5e5; text-align:center; margin:20px 0 0 55px; padding-top:7px;}
+.con3 .txt_ewm{ font:14px/30px '冬青黑体简体中文';}
+.con3 .erweima .txt2{ height:40px; width:212px; background:#f67f00; padding:7px 0; margin:9px auto 0;}
+.con3 .erweima .txt2 p{font:16px/20px '冬青黑体简体中文'; color:#fff;}
+.con3 .box{ margin-top:21px; background:#000; width:842px;}
+.con3 .v_box{ width:842px; height:277px;}
+.con3 .men{ margin-top:20px;}
+.con3 .men li{ width:194px; height:339px; background:#e5e5e5; margin-right:22px;}
+.con3 .men .mages{ padding:10px 15px;}
+.con3 .men .name_1{ font:13px/20px 'Hiragino Sans GB'; color:#df7f17;}
+.con3 .mages p2{font:13px/20px 'Hiragino Sans GB'; color:#3d3d3d;} 
+
+/*con4*/
+
+.con4_box{ height:395px; background:#222224; min-width:960px;}
+.con4{ height:394px; background:url(../img/bg01704.png) no-repeat 42px center; padding-top:1px; }
+.footer{ padding-top:26px; overflow:hidden;}
+.footer li{ width:408px; margin-right:23px;}
+.footer li a{ display:block; text-align:center; margin-top:17px; background:#df7f17; font:16px/37px '冬青黑体简体中文'; color:#fff;} 
+
+
+.ewm{ position:fixed; top:100px; left:0;}
+#toTop{ width:40px; height:40px; background:#fff url(../img/move-up.png) no-repeat center; position:fixed; right:50px; bottom:100px; background-size:100%; border-radius:50%; display:block; }
+
+
+
+
+

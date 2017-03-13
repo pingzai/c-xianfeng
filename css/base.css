@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+/*清除默认样式*/
+img{ vertical-align:top; border:none;}
+body,p,h1,h2,h3,h4,h5,h6,ul,ol,dl,dd,input,textarea{ margin:0; padding:0;}
+li{ list-style:none}
+a{ color:#000; text-decoration:none;}
+/*重用*/
+.fl{ float:left;}
+.fr{ float:right;}
+.ml74{ margin-left:74px;}
+.clearfix:after{ content:''; display:block; clear:both;}
+.f15{ font:15px '微软雅黑'; color:#fff;}
+.f13{ font:13px '微软雅黑'; color:#fff;}
+.w{ width:960px; margin:0 auto;}
+.w1{ width:878px; padding:0 42px; margin:0 auto;}
+input{ outline:none; padding:0; margin:0; border:none; background:none;}
+textarea{outline:none; padding:0; margin:0; border:none; background:none; 
+				resize:none;}
+
+
